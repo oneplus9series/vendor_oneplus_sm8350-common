@@ -782,15 +782,6 @@ PRODUCT_PACKAGES += \
     vulkan.adreno \
     libC2D2 \
     libCB \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxQcelp13Dec \
-    libOmxWmaDec \
     libOpenCL \
     libVkLayer_q3dtools \
     libadreno_app_profiles \
@@ -861,8 +852,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.memory.pasrmanager@1.1 \
     vendor.qti.qspmhal@1.0 \
     libFileMux_proprietary \
-    libOmxDsdDec \
-    libOmxVideoDSMode \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
@@ -874,7 +863,6 @@ PRODUCT_PACKAGES += \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
-    libdsd2pcm \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
